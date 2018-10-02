@@ -9,3 +9,5 @@ Route::post('/test', 'Entries@store');
 Auth::routes();
 
 Route::get('/', 'HomeController@index')->name('home');
+
+//test sa vedem daca merge

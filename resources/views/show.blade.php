@@ -28,4 +28,4 @@
         @endforeach
 </div>
 
-@endsection
+@       
